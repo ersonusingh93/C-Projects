@@ -1,0 +1,7 @@
+HTML 
+CSS 
+Javascript
+C 
+C++ : Concepts
+Jquery : advanced concpets
+php and laravel
